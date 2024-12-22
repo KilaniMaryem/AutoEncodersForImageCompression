@@ -25,4 +25,4 @@ A Variational Autoencoder (VAE) that encodes images into a probabilistic latent 
 
 **Evaluation:**
 
--Subjective Evaluation: Visual inspection of reconstructed images by juxtaposing them with the original inputs.
+- Subjective Evaluation: Visual inspection of reconstructed images by juxtaposing them with the original inputs.
